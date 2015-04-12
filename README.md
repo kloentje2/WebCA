@@ -12,3 +12,6 @@ Please, when you decide to use it/ Don't remove my name in the scripts
 * Revoke certificate
 * Manage every certificate easily
 * Execute a WHOIS query
+
+## Developer comments
+Please, feel free to edit the openssl files when you need to change something. 
